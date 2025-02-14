@@ -8,12 +8,10 @@ demonstrate the language, standard libraries, and tools.
 ## Clone the project
 
 ```
-$ git clone https://go.googlesource.com/example
+$ git clone https://github.com/ericchen-0828/go-example.git
 $ cd example
 ```
-https://go.googlesource.com/example is the canonical Git repository.
-It is mirrored at https://github.com/golang/example.
-
+ 
 ## [hello](hello/) and [hello/reverse](hello/reverse/)
 
 ```
