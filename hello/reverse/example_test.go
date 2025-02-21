@@ -11,6 +11,7 @@ import (
 )
 
 func ExampleString() {
-	fmt.Println(reverse.String("hello"))
+	fmt.Println(reverse.String("Hellow world"))
+	fmt.Println(reverse.String("Sweet dream"))
 	// Output: olleh
 }
