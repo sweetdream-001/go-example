@@ -8,7 +8,7 @@ demonstrate the language, standard libraries, and tools.
 ## Clone the project
 
 ```
-$ git clone https://github.com/ericchen-0828/go-example.git
+$ git clone https://github.com/sweetdream-001/go-example.git
 $ cd example
 ```
  
